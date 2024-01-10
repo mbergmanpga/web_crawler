@@ -1,0 +1,23 @@
+{
+  "name": "web_crawler",
+  "version": "1.0.0",
+  "description": "web_crawler for link",
+  "main": "main.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mbergmanpga/web_crawler.git"
+  },
+  "author": "mbergmanpga",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mbergmanpga/web_crawler/issues"
+  },
+  "homepage": "https://github.com/mbergmanpga/web_crawler#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
